@@ -1,3 +1,8 @@
+## Demo Image 🖼️
+![AR_Project](https://github.com/Asbaq/AR_Project/assets/sample-image.png)
+
+---
+
 # AR_Project Documentation 📄
 
 ## Overview 🌍
@@ -101,11 +106,6 @@ else
 1️⃣ **User taps** on a detected surface to **spawn an object**. 📌
 2️⃣ The object **appears** at the detected position. 🎭
 3️⃣ **User pinches** with two fingers to **scale the object**. 🔍
-
----
-
-## Demo Image 🖼️
-![AR_Project](https://github.com/Asbaq/AR_Project/assets/sample-image.png)
 
 ---
 
