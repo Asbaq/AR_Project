@@ -5,6 +5,12 @@ This document provides an explanation of the **AR_Project**, which is an **AR-ba
 
 ---
 
+🔗 Video Trailer
+
+https://youtube.com/shorts/7I_f1HF11kk?feature=share
+
+---
+
 ## Features 🚀
 - **Spawn an Object in AR** 🎯
 - **Scale the Object Using Pinch Gesture** 📏
