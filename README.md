@@ -1,7 +1,3 @@
-## Demo Image 🖼️
-![AR_Project](https://github.com/Asbaq/AR_Project/assets/sample-image.png)
-
----
 
 # AR_Project Documentation 📄
 
